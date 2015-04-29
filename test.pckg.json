@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "type": "product",
+  "version": "1.0.0",
+  "dependencies": {
+    "bmb": "*"
+  },
+  "devDependencies": {
+    "bmb.dev": "*"
+  }
+}
